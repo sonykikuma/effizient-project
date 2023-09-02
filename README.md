@@ -12,6 +12,7 @@ Out of many pages, this projects actually displays only shop all page as it is p
 
 NextJS, JavaScript, TailwindCSS, React-icons, Material UI
 
+This project is deployed successfully on vercel.
 Deployed Link : - https://effizient-project.vercel.app/Shopall
 
 How to run the project in your machine locally?
