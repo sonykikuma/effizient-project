@@ -30,10 +30,9 @@ export default function Cart() {
     <>
       <LightTooltip
         title={
-          <span>{["Your Cart", <br />, <br />, "Your Cart is empty"]}</span>
+          <span> {["Your Cart", <br />, <br />, "Your Cart is empty"]}</span>
         }
       >
-        {" "}
         <IconButton>
           {" "}
           <ShoppingCartOutlinedIcon />
